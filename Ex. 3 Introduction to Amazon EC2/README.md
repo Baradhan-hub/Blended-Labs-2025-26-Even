@@ -2,8 +2,6 @@
 
 ## Author
 
-* **Name**: ABINAYA A
-* **Register Number**: 21222430004
 
 
 ---
