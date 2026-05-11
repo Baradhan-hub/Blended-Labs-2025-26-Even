@@ -1,10 +1,6 @@
 # Build Your VPC and Launch a Web Server (AWS) 
 
 ## Author
-
-* **Name**: ABINAYA A
-* **Register Number**: 212224230004
-
 ---
 
 ## Objective
