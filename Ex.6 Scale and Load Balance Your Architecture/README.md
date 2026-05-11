@@ -3,7 +3,6 @@
 ## Title
 
 Scale and Load Balance Your Architecture
-## NAME: ABINAYA A 212224230004
 
 ---
 
