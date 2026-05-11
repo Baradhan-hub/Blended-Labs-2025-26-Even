@@ -2,10 +2,6 @@
 
 ## Author
 
-* **Name**: ABINAYA A
-* **Register Number**: 212224230004
-* **Date of Submission**: 17.03.2026
-
 ---
 
 ## Objective
